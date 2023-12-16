@@ -69,7 +69,8 @@
 </div>
 
 
-<!--![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+<!-- icon want to use
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -83,14 +84,21 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)-->
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+-->
 
-<!--![Top Lang](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=niamu01&langs_count=6&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)-->
+<!--
+![Top Lang](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=niamu01&langs_count=6&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+-->
 
-<!-- reference
-https://hits.seeyoufarm.com/
+<!--
+reference
+hits badge: https://hits.seeyoufarm.com/
+badge with icon: https://github.com/Ileriayo/markdown-badges
+simple badge: https://gist.github.com/ctrlaltdev/c0497bff497d29d119b6254e97d79b53
+
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 https://github.com/anuraghazra/github-readme-stats
-https://github.com/Ileriayo/markdown-badges
-https://tabletag.net/
+
+table generator: https://tabletag.net/
 -->
