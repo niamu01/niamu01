@@ -11,13 +11,11 @@
 <div align="left">
 
 ### JOURNEY
-🔭 [42Stat](https://github.com/42Statistics/42Stat-Backend) - Statistics site for 42 school (23.03~)
+🔭 [42Stat](https://github.com/42Statistics/42Stat-Backend) - Statistics site for 42 school (23.04~23.08)
 
-🛰️ [24HANE](https://github.com/innovationacademy-kr/24hane-backend) - 42 school check-in/out tracking site (23.02~23.03, 23.12)
+🛰️ [24HANE](https://github.com/innovationacademy-kr/24hane-backend) - 42 school check-in/out tracking site (23.02~23.03)
 
-🌌 [42Seoul](https://github.com/niamu01/42cursus) - Study in 42seoul (20.12~22.12)
-
-<!--- 👨‍💻 All of my projects are available at [Project Showcase](https://tall-cheque-027.notion.site/Portfolio-606a217519574710bd8bd4498d99fab5?pvs=4)-->
+🌌 [42Seoul](https://github.com/niamu01/42cursus) - Study in 42seoul (20.12~22.11)
 
 </div>
 
