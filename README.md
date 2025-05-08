@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yeeun Ju</h1>
 
+<!--
 <p align="center">
   <a href="https://github.com/niamu01/niamu01">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fniamu01&count_bg=%234856D7&title_bg=%23000000&icon=smugmug.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false" alt="Hits"/>
   </a>
 </p>
-
----
+-->
 
 <div align="left">
 
