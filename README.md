@@ -42,7 +42,8 @@ CS分野のQ&A、コードレビュー、学習サポートを実施。
 </details>
 <details>
   <summary>🧡 English</summary>
-### SIDE PROJECT
+<h3>SIDE PROJECT</h3>
+
 🪞 [RE:MIGAKI](https://github.com/SCIT-47-3) - A web platform helping Korean students to study Japanese and practice Japanese interviews (25.08 - 25.10, 2 months)
 
 💳 [「Conference Unconference」 Payment System](https://github.com/realworldpudding/puddingcamp-conferences) - An online ticket payment service for conference participation (24.08 - 24.09, 5 weeks)
@@ -51,7 +52,8 @@ CS分野のQ&A、コードレビュー、学習サポートを実施。
 
 🛰️ [24HANE](https://github.com/innovationacademy-kr/24hane-backend) - 42 school check-in/out tracking site (23.02 - 23.03, 2 months)
 
-### JOURNEY
+<h3>JOURNEY</h3>
+
 🇯🇵 [DSA-SCIT 47期](https://datasa.net/course/main) (25.04 - 25.11, 8 months)<br>
 The SMART Cloud IT Master program, operated by the Korea International Trade Association and Data Science Academy. <br>
 key skills: 
