@@ -1,25 +1,42 @@
 <h1 align="center">Hi 👋, I'm Yeeun Ju</h1>
 
-<!--
-<p align="center">
-  <a href="https://github.com/niamu01/niamu01">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fniamu01&count_bg=%234856D7&title_bg=%23000000&icon=smugmug.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false" alt="Hits"/>
-  </a>
-</p>
--->
-
 <div align="left">
 
+### SIDE PROJECT
+🪞 [RE:MIGAKI](https://github.com/SCIT-47-3) - A web platform helping Korean students to study Japanese and practice Japanese interviews (25.08 - 25.10, 2 months)
+
+💳 [「Conference Unconference」 Payment System](https://github.com/realworldpudding/puddingcamp-conferences) - An online ticket payment service for conference participation (24.08 - 24.09, 5 weeks)
+
+🔭 [42Stat](https://github.com/42Statistics/42Stat-Backend) - A learning statistics platform for 42 school (23.04 - 23.08, 5 months)
+
+🛰️ [24HANE](https://github.com/innovationacademy-kr/24hane-backend) - 42 school check-in/out tracking site (23.02 - 23.03, 2 months)
+
 ### JOURNEY
-🔭 [42Stat](https://github.com/42Statistics/42Stat-Backend) - Statistics site for 42 school (23.04~23.08)
+🏯 [DSA-SCIT 47期](https://datasa.net/course/main) (25.04 - 25.11, 8 months)<br>
+The SMART Cloud IT Master program, operated by the Korea International Trade Association and Data Science Academy. <br>
+key skills: 
+- IT (Java, Spring, JavaScript, HTML, CSS, team project)
+- Japanese language (conversation, business communication)
 
-🛰️ [24HANE](https://github.com/innovationacademy-kr/24hane-backend) - 42 school check-in/out tracking site (23.02~23.03)
+🎓 Academic Credit Bank — B.S. in Information & Communication Engineering — (21.01 – 25.02, 4 years) <br>
+Bachelor’s degree completed via Accredited Credit Bank System.
 
-🌌 [42Seoul](https://github.com/niamu01/42cursus) - Study in 42seoul (20.12~22.11)
+🛠️ Technical Mentor, Konkuk Univ. Codyssey — (24.05 – 24.07, 3 months) <br>
+Java/Python instruction, project guidance.
+
+🛠️ Technical Mentor, 42Seoul — (23.05 – 23.12, 8 months) <br>
+CS Q&A, code reviews, learner support.
+
+🌌 [42Seoul 3期](https://42seoul.kr/seoul42/main/view) (20.12 - 22.11, 2 years) <br>
+A software engineering bootcamp founded on the model of École 42﻿, originally established in Paris in 2013. <br>
+It has no professors, textbooks, or tuition fees. <br>
+focuses on self-directed, project-based learning and peer evaluation to build practical coding and problem-solving skills. <br>
+key skills: 
+- Creative and analytical thinking for effective problem-solving
+- Teamwork and communication through peer collaboration and project work
+- What I learn: [42cursus](https://github.com/niamu01/42cursus)
 
 </div>
-
----
 
 <div align="left">
 
@@ -27,6 +44,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -37,9 +55,11 @@
 <!--![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)-->
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+<!--![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)-->
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
