@@ -2,6 +2,46 @@
 
 <div align="left">
 
+<b>⬇️ CLICK! ⬇️</b>
+<details>
+  <summary>❤️ 日本語</summary>
+<h3>サイドプロジェクト</h3>
+  
+🪞 [RE:MIGAKI](https://github.com/SCIT-47-3) - 韓国人学生が日本語を学び、日本の面接を練習できるウェブサービス（25.08〜25.10・2ヶ月）
+
+💳 [「Conference Unconference」決済システム](https://github.com/realworldpudding/puddingcamp-conferences) - カンファレンス参加のためのオンラインチケット決済サービス（24.08〜24.09・5週間）
+
+🔭 [42Stat](https://github.com/42Statistics/42Stat-Backend) - 42学校の学習統計プラットフォーム（23.04〜23.08・5ヶ月）
+
+🛰️ [24HANE](https://github.com/innovationacademy-kr/24hane-backend) - 42学校の入退室記録管理サイト（23.02〜23.03・2ヶ月）
+
+<h3>経歴</h3>
+
+🇯🇵 [DSA-SCIT 47期](https://datasa.net/course/main)（25.04〜25.11・8ヶ月）<br>
+韓国貿易協会とデータサイエンスアカデミーが共同運営する「SMART Cloud IT Master」プログラム。<br>
+主な学習内容：  
+- IT（Java、Spring、JavaScript、HTML、CSS、チーム開発）  
+- 日本語（会話、ビジネスコミュニケーション）
+
+🎓 単位銀行制 — 情報通信工学学士（21.01〜25.02・4年）<br>
+
+👩‍🏫 建国大学 Codyssey — 技術メンター（24.05〜24.07・3ヶ月）<br>
+Java／Pythonの指導およびプロジェクトガイダンスを担当。
+
+👩‍🏫 42Seoul — 技術メンター（23.05〜23.12・8ヶ月）<br>
+CS分野のQ&A、コードレビュー、学習サポートを実施。
+
+🌌 [42Seoul 3期](https://42seoul.kr/seoul42/main/view)（20.12〜22.11・2年）<br>
+フランス発のÉcole 42モデルに基づくソフトウェアエンジニアリングブートキャンプ。<br>
+教授・教材・授業料が存在せず、自己主導型・プロジェクトベース・ピアレビューにより実践的なコーディング力を育成。<br>
+主なスキル：  
+- 創造的かつ論理的な問題解決思考  
+- チームワークとコミュニケーション能力（共同開発を通じて）  
+- 学習内容：[42cursus](https://github.com/niamu01/42cursus)
+
+</details>
+<details>
+  <summary>🧡 English</summary>
 ### SIDE PROJECT
 🪞 [RE:MIGAKI](https://github.com/SCIT-47-3) - A web platform helping Korean students to study Japanese and practice Japanese interviews (25.08 - 25.10, 2 months)
 
@@ -12,7 +52,7 @@
 🛰️ [24HANE](https://github.com/innovationacademy-kr/24hane-backend) - 42 school check-in/out tracking site (23.02 - 23.03, 2 months)
 
 ### JOURNEY
-🏯 [DSA-SCIT 47期](https://datasa.net/course/main) (25.04 - 25.11, 8 months)<br>
+🇯🇵 [DSA-SCIT 47期](https://datasa.net/course/main) (25.04 - 25.11, 8 months)<br>
 The SMART Cloud IT Master program, operated by the Korea International Trade Association and Data Science Academy. <br>
 key skills: 
 - IT (Java, Spring, JavaScript, HTML, CSS, team project)
@@ -21,10 +61,10 @@ key skills:
 🎓 Academic Credit Bank — B.S. in Information & Communication Engineering — (21.01 – 25.02, 4 years) <br>
 Bachelor’s degree completed via Accredited Credit Bank System.
 
-🛠️ Technical Mentor, Konkuk Univ. Codyssey — (24.05 – 24.07, 3 months) <br>
+👩‍🏫 Technical Mentor, Konkuk Univ. Codyssey — (24.05 – 24.07, 3 months) <br>
 Java/Python instruction, project guidance.
 
-🛠️ Technical Mentor, 42Seoul — (23.05 – 23.12, 8 months) <br>
+👩‍🏫 Technical Mentor, 42Seoul — (23.05 – 23.12, 8 months) <br>
 CS Q&A, code reviews, learner support.
 
 🌌 [42Seoul 3期](https://42seoul.kr/seoul42/main/view) (20.12 - 22.11, 2 years) <br>
@@ -37,7 +77,7 @@ key skills:
 - What I learn: [42cursus](https://github.com/niamu01/42cursus)
 
 </div>
-
+</details>
 <div align="left">
 
 ### USE TO CODE
