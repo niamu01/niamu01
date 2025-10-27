@@ -3,8 +3,15 @@
 <div align="left">
 
 <b>⬇️ CLICK! ⬇️</b>
-<details>
+<details open=false>
   <summary>❤️ 日本語</summary>
+<h3>受賞歴</h3>
+
+🏆 25.10 韓国貿易協会 貿易アカデミー（KITA）最優秀賞  
+🏆 24.13 情報通信企画評価院（IITP）院長賞  
+🏆 23.10 科学技術情報通信部（MSIT）長官賞  
+🏆 22.12 情報通信企画評価院（IITP）院長賞
+  
 <h3>サイドプロジェクト</h3>
   
 🪞 [RE:MIGAKI](https://github.com/SCIT-47-3) - 韓国人学生が日本語を学び、日本の面接を練習できるウェブサービス（25.08〜25.10・2ヶ月）
