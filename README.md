@@ -3,7 +3,7 @@
 <div align="left">
 
 <b>⬇️ CLICK! ⬇️</b>
-<details open=false>
+<details>
   <summary>❤️ 日本語</summary>
 <h3>受賞歴</h3>
 
@@ -47,7 +47,7 @@ CS分野のQ&A、コードレビュー、学習サポートを実施。
 - 学習内容：[42cursus](https://github.com/niamu01/42cursus)
 
 </details>
-<details>
+<details open=false>
   <summary>🧡 English</summary>
 <h3>SIDE PROJECT</h3>
 
